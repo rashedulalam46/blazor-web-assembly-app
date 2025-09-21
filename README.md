@@ -1,5 +1,5 @@
 ## Blazor WebAssembly (Blazor WASM)
-A simple **Blazor WebAssembly** application using .NET 8.0. This project demonstrates basic interactive UI components (counter example with increment and decrement), Razor components, and server-side rendering using Blazor. If you navigate from one page to another, you’ll notice that the page does not refresh. This is an important feature of Blazor applications.
+A simple **Blazor WebAssembly** application using .NET 8.0. This project demonstrates basic interactive UI components (counter example with increment and decrement), Razor components, and client-side rendering using Blazor. If you navigate from one page to another, you’ll notice that the page does not refresh. This is an important feature of Blazor applications.
 
 ## 🌐 Blazor WebAssembly (WASM)
 
