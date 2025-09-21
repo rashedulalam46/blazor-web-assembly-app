@@ -1,1 +1,1 @@
-Blazor web assenbly
+## Blazor WebAssembly (Blazor WASM)
