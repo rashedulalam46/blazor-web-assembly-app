@@ -58,7 +58,7 @@ dotnet build
 dotnet run
 ```
 
-By default, the app will run on https://localhost:5001 (or another port shown in console). Open the browser and go to https://localhost:5001 to view it.
+By default, the app will run on https://localhost:5273 (or another port shown in console). Open the browser and go to https://localhost:5273 to view it.
 
 ## 🔍 Features
 
