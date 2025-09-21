@@ -63,8 +63,8 @@ By default, the app will run on https://localhost:5273 (or another port shown in
 ## 🔍 Features
 
 - Counter component with Increment and Decrement buttons (interactive server mode).
-- Razor pages/components for modular UI.
-- Server-side rendering (Blazor Server) with real-time UI updates.
+- Razor pages for UI.
+- Client-side rendering (Blazor WebAssembly) with real-time UI updates.
 
 ## ⚙ Configuration
 - All configuration settings are held in appsettings.json and appsettings.Development.json.
