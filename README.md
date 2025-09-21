@@ -27,15 +27,15 @@ Use Case:
 
 | Folder/File | Description |
 |-------------|-------------|
-| `BlazorServerApp.sln` | Solution file that includes the project. |
-| `BlazorServerApp.csproj` | The project file with dependencies and settings. |
+| `BlazorWasmApp.sln` | Solution file that includes the project. |
+| `BlazorWasmApp.csproj` | The project file with dependencies and settings. |
 | `Program.cs` | Entry point—configures the web app, adds services, routing, etc. |
 | `appsettings.json` | Configuration settings (e.g. for logging, etc.). |
 | `Properties` | Project properties (AssemblyInfo etc.). |
 | `wwwroot` | Static assets: CSS, JavaScript, images. |
 | `bin/`, `obj/` | Build output and intermediate files. |
-| `Components/` | (If present) Razor components for modular UI pieces. |
-
+| `Layout/` | Layout pages. |
+| `Pages/` | Pages. |
 ---
 
 ## 🚀 Getting Started
