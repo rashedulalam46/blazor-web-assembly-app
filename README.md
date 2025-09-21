@@ -51,8 +51,8 @@ These instructions will help you get a local copy up and running.
 ### Clone & Run
 
 ```bash
-git clone https://github.com/rashedulalam46/blazor-server-app.git
-cd blazor-server-app
+git clone https://github.com/rashedulalam46/blazor-web-assembly-app.git
+cd blazor-web-assembly-app
 dotnet restore
 dotnet build
 dotnet run
